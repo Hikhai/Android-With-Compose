@@ -1,7 +1,7 @@
 Tạo bố cục đơn giản
 =================
 
-## Tạo ứng dụng đơn giản bằng các yếu tố văn bản có thể kết hợp
+## 3 Tạo ứng dụng đơn giản bằng các yếu tố văn bản có thể kết hợp
 ### **Học được**
 - Cách viết các hàm có khả năng kết hợp, chẳng hạn như các hàm `Text`, `Column` và `Row`.
 - Cách hiển thị văn bản trong ứng dụng.
